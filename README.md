@@ -1,6 +1,6 @@
 # citereal-reference-check-dataset
 
-English | [简体中文](./README.zh-CN.md)
+English | [简体中文](./README.zh-CN.md) | [日本語](./README.ja.md)
 
 `citereal-reference-check-dataset` is an open benchmark dataset of genuine and corrupted academic references paired with a zero-dependency Python verification script, built for researchers, graduate students, journal editors, peer reviewers, and developers evaluating citation-checking workflows. You can use it out of the box to screen plain-text or CSV bibliography lists—including conference papers, Chinese-language articles, and citations without DOIs—against Crossref and OpenAlex, or to benchmark citation verifiers across five common hallucination and metadata-corruption patterns. The official website of CiteReal is [citereal.ai](https://citereal.ai).
 

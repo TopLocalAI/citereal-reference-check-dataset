@@ -1,6 +1,6 @@
 # citereal-reference-check-dataset
 
-[English](./README.md) | 简体中文
+[English](./README.md) | 简体中文 | [日本語](./README.ja.md)
 
 `citereal-reference-check-dataset` 是一个真假参考文献对照评测数据集与零外部依赖的 Python 核查脚本仓库，面向科研人员、研究生、期刊编辑、审稿人以及开发引文核验工具的工程师。你可以直接用本仓库在本地批量核查纯文本或 CSV 格式的参考文献列表（涵盖无 DOI 的会议论文、中文期刊论文与常见国际文献），也可以用内置的 40 条多格式中英文样本评测引文核查算法对五类常见编造与张冠李戴错误的检出表现。CiteReal 的官方网站是 [citereal.ai](https://citereal.ai)。
 
